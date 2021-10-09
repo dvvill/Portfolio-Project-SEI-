@@ -1,0 +1,153 @@
+# Project Overview
+
+### Finding Good Portfolio Sites To Emulate 
+
+Search and compare at least 3 profile web sites.  Record your findings in the table below and include some aspect of the site that you would like to incorporate into your own site. 
+
+Here is a sample of what that reserach will look like:
+
+Link To Site  | One Thing I'd Like To Incorporate | 
+| ------------- | ------------- |
+| [https://www.lianapenn.com/index.html](https://www.lianapenn.com/index.html)| initial animation\drawing on page load
+                                                                                the navigation bar location & opaque
+                                                                                the way her about content is formatted
+                                                                                spans across the page
+                                                                                location of her name and title; centered and simple
+|[https://afuadeborahcodes.com/) | animation of her about section|
+                                   the black background w/white letters
+| [http://mattfarley.ca/](http://mattfarley.ca/) |  layout of the projects
+
+<hr>
+
+## Project Schedule
+
+This schedule will be used to keep track of your progress throughout the week and align with our expectations.  
+
+You are **responsible** for scheduling time with your squad to seek approval for each deliverable by the end of the corresponding day, excluding `Saturday` and `Sunday`.
+
+|  Day | Deliverable | Status
+|---|---| ---|
+|Day 1| Project Description | Incomplete
+|Day 1| Wireframes / Priority Matrix / Timeline | Incomplete
+|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
+|Day 4| MVP & Bug Fixes | Incomplete
+|Day 5| Final Touches | Incomplete
+|Day 6| Present | Incomplete
+
+
+## Project Description
+PHONE
+The main page with a background photo that takes up 3/4 of the page the hamburger menu icon in the top right w/ my name and title in white font in the center. The menu will
+have links to the About, Projects, Skills and Contact sections. the site will be a scrolling page the home page followed by the About section, then Projects, Skills and the
+contact section last. The About section i want to have animated so that it moves into the screen as I scroll to it, a picture of me followed by the about me content. Projects
+is the following section and i want the projects each to be contained w/in a litte square of their own. The skills sections i want to be divided by a line across the screen
+and icons representing the languages i know.  Last but not least i will have the contact section within a boxed grid footer style at the very bottom with a slightly different 
+background color from the rest of the page. 
+
+
+DESKTOP
+I want my portfolio to have a very simple landing page (first page) with a picture/design that takes up the top 3/4 of the page w/ my name and title in the center and I want 
+to have an opaque navigation bar across the page on the very top with links to the Home, About, Projects, Skills and Contact sections that bring the user to those sections.  I
+want the portfolio to be a scrolling site. after the landing page the first section when you scroll down is the about section which I want to have animated in the form of two
+blocks that move into the page from the outer screen to the center. one block would be content-About me and the other a picture of me.  Directly below that I want to have the 
+projects section which i would like to add as individual boxes for each project added. Then following that I want to have my skills section with icons representing the languages
+I know and lastly i would like to add my contact info in a sectioned off part at the very end of the page with a slightly different background color from the rest of the page.
+
+
+## Wireframes
+
+PHONE WIREFRAME-
+  :https://res.cloudinary.com/dvvill/image/upload/v1633748566/portfolio_phone_wireframe.png_pg1_aqtway.png
+  https://res.cloudinary.com/dvvill/image/upload/v1633748566/portfolio_phone_wireframe_pg2_bwxhur.png
+  https://res.cloudinary.com/dvvill/image/upload/v1633748566/portfolio_phone_wireframe_pg3_b9n0m3.png
+
+DESKTOP-
+  https://res.cloudinary.com/dvvill/image/upload/v1633753597/Portfolio_Desktop_Wireframe1_kbi0z3.png
+  https://res.cloudinary.com/dvvill/image/upload/v1633753598/Portfolio_Desktop_Wireframe2_wxrlri.png
+  https://res.cloudinary.com/dvvill/image/upload/v1633753597/Portfolio_Desktop_Wireframe3_kpgl6l.png
+  https://res.cloudinary.com/dvvill/image/upload/v1633753597/Portfolio_Desktop_Wireframe4_t8rmeu.png
+
+
+
+Wireframing Resources
+
+- [Mockflow](https://wireframepro.mockflow.com/view/MkRcUiEjPmb)
+- [Figma](https://www.figma.com/)
+
+
+## Time/Priority Matrix 
+
+[Link](https://res.cloudinary.com/jkeohan/image/upload/a_270/v1591621734/project1_matrix_ocy5gc_h1kg0m.jpg)
+
+Include a full list of features that have been prioritized based on the `Time and Priority` Matix.  This involves drawing a a square.  In the middle of the square, on the x axis draw a line.  The most left part of the line should start with 0hrs and the end of the line should include 2hrs.  This line will be used to estimate how much time any one feature will take to complete. 
+
+Now draw a vertical line on the y axis.  The top of this line should have `High` and the bottom `Low`.  This line will be used to assign a priority to to each feature you wish to include in the project.  
+
+Now create a separate list starting with A and assign it one of the features.  Continue to assign each feature a letter.  Once complete add each letter to the matrix assigning based on what your feel it's prioirty is an how long it will take to implement. If any one feature takes longer than 2hrs to complete than break it down into smaller tasks and reassign them a new letter. 
+
+Once complete tally up the time and determine how long the project will take to complete. Now break those features into MVP and PostMVP so you can guarantee you will have a fully functioning project to demo. 
+
+### MVP/PostMVP - 5min
+
+The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
+
+#### MVP (examples)
+
+- Pull data using google json api
+- Render data on page 
+- Allow user to choose favorites 
+- Save their choices in firebase
+
+#### PostMVP 
+
+- Anything else that is not MVP
+
+## Functional Components
+
+Based on the initial logic defined in the previous sections try and breakdown the logic further into smaller components.  Try and capture what logic would need to be defined if the game was broken down into the following categories.
+
+Time frames are also key in the development cycle.  You have limited time to code all phases of the portfolio. Your estimates can then be used to evalute possibilities based on time needed and the actual time you have before the portfolio must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe.
+
+#### MVP
+| Component | Priority | Estimated Time | Actual Time |
+| --- | :---: |  :---: | :---: | 
+| Hamburger | H | 1hr | hr |
+| Project Previews | H | 3hr | hr |
+| Regular Nav | H | 1hr | hr |  
+| Adding Form | H | 1.5hr|  hr | 
+| Other sections and flex| M | 3hr | hr|
+| Working with API | H | 3hrs|  hr | 
+| Responsive | H | 3hr | hr | hr |
+| Social Media Icons | L | 1hr |  hr |
+| Total | H | 15.5hrs| hrs |
+
+#### PostMVP
+| Component | Priority | Estimated Time | Actual Time |
+| --- | :---: |  :---: | :---: | 
+| Project Hover | L | 3hr | -hr | hr |
+| Banner letters wiggle | L | 1hr | hr |
+| Interactive Banner | M | 4hr | hr |
+| Materialize | H | 4hr | -hr | hr |
+| Bootstrap | H | 4hr | hr |
+| Make own icon | L | 4hr | hr |
+| Total | H | 20hrs| hrs |
+
+## Additional Libraries
+ Use this section to list all supporting libraries and thier role in the project. 
+
+## Code Snippet
+
+Use this section to include a brief code snippet of functionality that you are proud of an a brief description  
+
+```
+function reverse(string) {
+	// here is the code to reverse a string of text
+}
+```
+
+## Issues and Resolutions
+ Use this section to list of all major issues encountered and their resolution.
+
+#### SAMPLE.....
+**ERROR**: app.js:34 Uncaught SyntaxError: Unexpected identifier                                
+**RESOLUTION**: Missing comma after first object in sources {} object
